@@ -5,6 +5,7 @@
       <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060">
         <Columns>
           <Text name="Text" guid="96d8c7db-ebb8-4410-8b24-0b9f725559c4" />
+          <Text name="Text2" guid="9d8304d3-ce1e-4e55-bf30-5fdd08d31433" isMandatory="true" allowLinking="false" maxLength="1000" textFormat="HTML" />
         </Columns>
         <UniqueConstraints />
         <Indexes>

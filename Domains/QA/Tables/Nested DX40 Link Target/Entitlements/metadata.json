@@ -1,0 +1,29 @@
+{
+  "Add Rows": true,
+  "Approvable Columns": null,
+  "Approve Changes": false,
+  "Delete Rows": true,
+  "Design Table": false,
+  "Direct Query": true,
+  "Edit All Columns": true,
+  "Editable Columns": null,
+  "Editable Row Filter": null,
+  "Export Data": true,
+  "Groups": "DX40 G1",
+  "Install Table": true,
+  "Manage Controls": false,
+  "Table": "QA.Nested DX40 Link Target",
+  "Users": null,
+  "View All Columns": true,
+  "Viewable Columns": null,
+  "Viewable Row Filter": null,
+  "Sync GUID": "bd316ef1-8f50-4a7f-82d9-9ad55eA296FB85-6AF1-4EBE-AFD3-CAB72DFD529C",
+  "ResolveLinks": {
+    "Approvable Columns": null,
+    "Editable Columns": null,
+    "Groups": "DX40 G1",
+    "Table": "7f299bf4-9d4d-4121-a573-8400877355d6",
+    "Users": null,
+    "Viewable Columns": null
+  }
+}
