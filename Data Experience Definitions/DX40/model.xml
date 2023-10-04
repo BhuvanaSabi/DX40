@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DX40" version="1.0.0" xmlns="http://www.cinchy.co">
+  <Schema>
+    <Tables>
+      <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060">
+        <Columns>
+          <Text name="Text" guid="96d8c7db-ebb8-4410-8b24-0b9f725559c4" />
+        </Columns>
+        <UniqueConstraints />
+        <Indexes>
+          <Index name="Cinchy Default Index">
+            <Column>Approval State</Column>
+            <Column>Deleted</Column>
+          </Index>
+        </Indexes>
+      </Table>
+      <Table name="DX40 All Data Types Link Target" domain="QA" guid="fc6b69ba-97bf-47e0-8b1f-f1a60d2fd9e0" icon="fa fa-table" iconColour="#002060">
+        <Columns>
+          <Text name="Text" guid="35c988ff-296f-4429-b507-84a1d2ba5709" />
+          <Number name="Number" guid="4d6f2d6f-7a66-4160-9cad-f7662ce85a02" displayFormat="0,0" />
+          <Date name="Date" guid="63535569-b9a9-4d05-a574-27efa4cee3ad" displayFormat="MMM DD, YYYY" />
+          <YesNo name="Bool" guid="02906945-4c85-41eb-8992-de0e2774b85a" defaultValue="false" />
+          <Choice name="Choice" guid="76bdc409-ee2b-4786-961b-2e8b0c2638b8">
+            <Option>1</Option>
+            <Option>2</Option>
+            <Option>3</Option>
+            <Option>4</Option>
+            <Option>5</Option>
+          </Choice>
+          <Choice name="Multi Select Choice" guid="f5e6100c-5a65-42c5-a651-cc0b2e81c3fa" allowMultiple="true">
+            <Option>1</Option>
+            <Option>2</Option>
+            <Option>3</Option>
+            <Option>4</Option>
+            <Option>5</Option>
+          </Choice>
+          <Link name="Link" guid="f5e1f8be-cf02-46a0-9a92-a30835f09bc7" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target">
+            <SearchDisplayColumns>
+              <LinkedColumn isPrimary="true">Text</LinkedColumn>
+            </SearchDisplayColumns>
+          </Link>
+          <Link name="Link2" guid="aaab41ff-1f7d-4cb8-a55e-cafe2eaca8f4" allowLinking="false" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target">
+            <SearchDisplayColumns>
+              <LinkedColumn isPrimary="true">Cinchy Id</LinkedColumn>
+            </SearchDisplayColumns>
+          </Link>
+        </Columns>
+        <UniqueConstraints />
+        <Indexes>
+          <Index name="Cinchy Default Index">
+            <Column>Approval State</Column>
+            <Column>Deleted</Column>
+          </Index>
+        </Indexes>
+      </Table>
+    </Tables>
+  </Schema>
+</Model>
