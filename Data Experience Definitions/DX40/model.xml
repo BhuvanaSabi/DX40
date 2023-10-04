@@ -5,9 +5,18 @@
       <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060">
         <Columns>
           <Text name="Text" guid="96d8c7db-ebb8-4410-8b24-0b9f725559c4" />
-          <Text name="Text2" guid="9d8304d3-ce1e-4e55-bf30-5fdd08d31433" isMandatory="true" allowLinking="false" maxLength="1000" textFormat="HTML" />
+          <Text name="Text2" guid="9d8304d3-ce1e-4e55-bf30-5fdd08d31433" isMandatory="true" allowLinking="false" maxLength="2000" textFormat="Default" />
+          <Number name="Id" guid="bb3890f4-ffbe-470d-b2b0-8b5bb7f11045" isMandatory="true" allowLinking="false" displayFormat="0,0" />
+          <Date name="Date" guid="c24fc5f2-101c-4bc6-9cb2-4de1b614919f" allowLinking="false" displayFormat="YYYY-MM-DD" />
         </Columns>
-        <UniqueConstraints />
+        <UniqueConstraints>
+          <UniqueConstraint>
+            <Column>Id</Column>
+          </UniqueConstraint>
+          <UniqueConstraint>
+            <Column>Date</Column>
+          </UniqueConstraint>
+        </UniqueConstraints>
         <Indexes>
           <Index name="Cinchy Default Index">
             <Column>Approval State</Column>
@@ -35,12 +44,12 @@
             <Option>4</Option>
             <Option>5</Option>
           </Choice>
-          <Link name="Link" guid="f5e1f8be-cf02-46a0-9a92-a30835f09bc7" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target">
+          <Link name="Link" guid="f5e1f8be-cf02-46a0-9a92-a30835f09bc7" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target" linkFilterExpression="">
             <SearchDisplayColumns>
               <LinkedColumn isPrimary="true">Text</LinkedColumn>
             </SearchDisplayColumns>
           </Link>
-          <Link name="Link2" guid="aaab41ff-1f7d-4cb8-a55e-cafe2eaca8f4" allowLinking="false" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target">
+          <Link name="Link2" guid="aaab41ff-1f7d-4cb8-a55e-cafe2eaca8f4" allowLinking="false" linkedTableDomain="QA" linkedTable="Nested DX40 Link Target" linkFilterExpression="">
             <SearchDisplayColumns>
               <LinkedColumn isPrimary="true">Cinchy Id</LinkedColumn>
             </SearchDisplayColumns>
