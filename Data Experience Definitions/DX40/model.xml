@@ -2,18 +2,30 @@
 <Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DX40" version="1.0.0" xmlns="http://www.cinchy.co">
   <Schema>
     <Tables>
-      <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060">
+      <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060" description="Description added by QA2Cinchy">
         <Columns>
           <Text name="Text" guid="96d8c7db-ebb8-4410-8b24-0b9f725559c4" />
           <Text name="Text2" guid="9d8304d3-ce1e-4e55-bf30-5fdd08d31433" isMandatory="true" allowLinking="false" maxLength="2000" textFormat="Default" />
           <Number name="Id" guid="bb3890f4-ffbe-470d-b2b0-8b5bb7f11045" isMandatory="true" allowLinking="false" displayFormat="0,0" />
-          <Date name="Date" guid="c24fc5f2-101c-4bc6-9cb2-4de1b614919f" allowLinking="false" displayFormat="YYYY-MM-DD" />
+          <Date name="Date" guid="c24fc5f2-101c-4bc6-9cb2-4de1b614919f" allowLinking="false" displayFormat="YY-MM-DD" />
+          <Choice name="Choice" guid="4d737288-433d-40ba-8cf5-b317ee1d99ad" allowLinking="false">
+            <Option>1</Option>
+            <Option>2</Option>
+            <Option>3</Option>
+          </Choice>
+          <Choice name="MSL" guid="511680da-abb4-4802-9c63-2724173772d5" allowLinking="false" allowMultiple="true">
+            <Option>1</Option>
+            <Option>2</Option>
+            <Option>3</Option>
+            <Option>4</Option>
+            <Option>5</Option>
+          </Choice>
         </Columns>
         <UniqueConstraints>
-          <UniqueConstraint name="Col8595">
+          <UniqueConstraint name="Col40786">
             <Column>Id</Column>
           </UniqueConstraint>
-          <UniqueConstraint name="Col8596">
+          <UniqueConstraint name="Col40787">
             <Column>Date</Column>
           </UniqueConstraint>
         </UniqueConstraints>
