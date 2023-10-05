@@ -10,10 +10,10 @@
           <Date name="Date" guid="c24fc5f2-101c-4bc6-9cb2-4de1b614919f" allowLinking="false" displayFormat="YYYY-MM-DD" />
         </Columns>
         <UniqueConstraints>
-          <UniqueConstraint>
+          <UniqueConstraint name="Col8595">
             <Column>Id</Column>
           </UniqueConstraint>
-          <UniqueConstraint>
+          <UniqueConstraint name="Col8596">
             <Column>Date</Column>
           </UniqueConstraint>
         </UniqueConstraints>
