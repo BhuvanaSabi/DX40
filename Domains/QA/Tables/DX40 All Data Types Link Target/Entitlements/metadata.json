@@ -1,0 +1,60 @@
+[
+  {
+    "Add Rows": true,
+    "Approvable Columns": null,
+    "Approve Changes": false,
+    "Delete Rows": true,
+    "Design Table": false,
+    "Direct Query": true,
+    "Edit All Columns": true,
+    "Editable Columns": null,
+    "Editable Row Filter": "[Cinchy ID] <500",
+    "Export Data": true,
+    "Groups": "DX40 Users",
+    "Install Table": true,
+    "Manage Controls": false,
+    "Table": "QA.DX40 All Data Types Link Target",
+    "Users": null,
+    "View All Columns": true,
+    "Viewable Columns": null,
+    "Viewable Row Filter": "[Cinchy ID] <1000",
+    "Sync GUID": "bd316ef1-8f50-4a7f-82d9-9ad55ee7f493_9ce036c8-655e-48fe-8da6-b3fc539b8730_1204e0ce-5717-4106-adac-0355c6b20f70",
+    "ResolveLinks": {
+      "Approvable Columns": null,
+      "Editable Columns": null,
+      "Groups": "DX40 Users",
+      "Table": "fc6b69ba-97bf-47e0-8b1f-f1a60d2fd9e0",
+      "Users": null,
+      "Viewable Columns": null
+    }
+  },
+  {
+    "Add Rows": true,
+    "Approvable Columns": null,
+    "Approve Changes": true,
+    "Delete Rows": true,
+    "Design Table": true,
+    "Direct Query": true,
+    "Edit All Columns": true,
+    "Editable Columns": null,
+    "Editable Row Filter": null,
+    "Export Data": true,
+    "Groups": "DX40 Admin",
+    "Install Table": true,
+    "Manage Controls": true,
+    "Table": "QA.DX40 All Data Types Link Target",
+    "Users": "Administrator (admin)",
+    "View All Columns": true,
+    "Viewable Columns": null,
+    "Viewable Row Filter": null,
+    "Sync GUID": "bd316ef1-8f50-4a7f-82d9-9ad55ee7f493_9ce036c8-655e-48fe-8da6-b3fc539b8730_874f21a8-7da6-4ea8-b0be-0e41efb2ad41",
+    "ResolveLinks": {
+      "Approvable Columns": null,
+      "Editable Columns": null,
+      "Groups": "DX40 Admin",
+      "Table": "fc6b69ba-97bf-47e0-8b1f-f1a60d2fd9e0",
+      "Users": "Administrator (admin)",
+      "Viewable Columns": null
+    }
+  }
+]

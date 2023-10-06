@@ -1,0 +1,4 @@
+Bool,Bool2,Bool Link,Choice,Choice1,Choice Link,Choice Link2,Date,Date2,Date Link,MSC,MSC1,Multi Select Link,Multi Select Link2,Nested Link Target,Nested Multi Link Target,Number,Number2,Number Link,Number Link2,PostInstall,Text,Text1,Text Link
+"False","False","","","","","","",2020-01-20 00:00:00,"","","","","","","","","5","","","","test3","a",""
+"True","False","True","2","2","1","1",2023-07-03 00:00:00,2020-01-20 00:00:00,2023-07-01 00:00:00,"1,2","2,1","a,b","a,b","","","2000","5","","","","test2","d","a"
+"True","True","True","3","3","1","1",2023-07-03 00:00:00,2020-01-20 00:00:00,2023-07-01 00:00:00,"1,2","1,2","a,b","a,b","a","c,a","100","5","","","","test1","c","a"
