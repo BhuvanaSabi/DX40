@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BatchDataSyncConfig name="DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink" version="1.0.0" xmlns="http://www.cinchy.co">
+    <Parameters>
+        <Parameter name="filePath" />
+    </Parameters>
+    <DelimitedDataSource source="PATH" path="@filePath" delimiter="," textQualifier="&quot;" headerRowsToIgnore="0" encoding="UTF8" useHeaderRecord="true">
+        <Schema>
+            <Column name="Bool" dataType="Bool" />
+            <Column name="Bool2" dataType="Bool" />
+            <Column name="Bool Link" dataType="Text" />
+            <Column name="Choice" dataType="Text" />
+            <Column name="Choice1" dataType="Text" />
+            <Column name="Choice Link" dataType="Text" />
+            <Column name="Choice Link2" dataType="Text" />
+            <Column name="Date" dataType="Date" />
+            <Column name="Date2" dataType="Date" />
+            <Column name="Date Link" dataType="Text" />
+            <Column name="MSC" dataType="Text" />
+            <Column name="MSC1" dataType="Text" />
+            <Column name="Multi Select Link" dataType="Text" />
+            <Column name="Multi Select Link2" dataType="Text" />
+            <Column name="Nested Link Target" dataType="Text" />
+            <Column name="Nested Multi Link Target" dataType="Text" />
+            <Column name="Number" dataType="Number" />
+            <Column name="Number2" dataType="Number" />
+            <Column name="Number Link" dataType="Text" />
+            <Column name="Number Link2" dataType="Text" />
+            <Column name="PostInstall" dataType="Text" />
+            <Column name="Text" dataType="Text" />
+            <Column name="Text1" dataType="Text" />
+            <Column name="Text Link" dataType="Text" />
+        </Schema>
+    </DelimitedDataSource>
+    <CinchyTableTarget model="" domain="QA" table="DX40 All Data" suppressDuplicateErrors="false">
+        <ColumnMappings>
+            <ColumnMapping sourceColumn="Bool" targetColumn="Bool" />
+            <ColumnMapping sourceColumn="Bool2" targetColumn="Bool2" />
+            <ColumnMapping sourceColumn="Bool Link" targetColumn="Bool Link" linkColumn="Bool" />
+            <ColumnMapping sourceColumn="Choice" targetColumn="Choice" />
+            <ColumnMapping sourceColumn="Choice1" targetColumn="Choice1" />
+            <ColumnMapping sourceColumn="Choice Link" targetColumn="Choice Link" linkColumn="Choice" />
+            <ColumnMapping sourceColumn="Choice Link2" targetColumn="Choice Link2" linkColumn="Choice" />
+            <ColumnMapping sourceColumn="Date" targetColumn="Date" />
+            <ColumnMapping sourceColumn="Date2" targetColumn="Date2" />
+            <ColumnMapping sourceColumn="Date Link" targetColumn="Date Link" linkColumn="Date" />
+            <ColumnMapping sourceColumn="MSC" targetColumn="MSC" />
+            <ColumnMapping sourceColumn="MSC1" targetColumn="MSC1" />
+            <ColumnMapping sourceColumn="Multi Select Link" targetColumn="Multi Select Link" linkColumn="Text" />
+            <ColumnMapping sourceColumn="Multi Select Link2" targetColumn="Multi Select Link2" linkColumn="Text" />
+            <ColumnMapping sourceColumn="Nested Link Target" targetColumn="Nested Link Target" linkColumn="Text" />
+            <ColumnMapping sourceColumn="Nested Multi Link Target" targetColumn="Nested Multi Link Target" linkColumn="Text" />
+            <ColumnMapping sourceColumn="Number" targetColumn="Number" />
+            <ColumnMapping sourceColumn="Number2" targetColumn="Number2" />
+            <ColumnMapping sourceColumn="Number Link" targetColumn="Number Link" linkColumn="Number" />
+            <ColumnMapping sourceColumn="Number Link2" targetColumn="Number Link2" linkColumn="Number" />
+            <ColumnMapping sourceColumn="PostInstall" targetColumn="PostInstall" />
+            <ColumnMapping sourceColumn="Text" targetColumn="Text" />
+            <ColumnMapping sourceColumn="Text1" targetColumn="Text1" />
+            <ColumnMapping sourceColumn="Text Link" targetColumn="Text Link" linkColumn="Text" />
+        </ColumnMappings>
+        <Filter>
+        </Filter>
+        <SyncKey>
+            <SyncKeyColumnReference name="Text" />
+        </SyncKey>
+        <NewRecordBehaviour type="INSERT" />
+        <ChangedRecordBehaviour type="UPDATE" />
+        <DroppedRecordBehaviour type="DELETE" />
+    </CinchyTableTarget>
+</BatchDataSyncConfig>
