@@ -6,21 +6,17 @@
     <DelimitedDataSource source="PATH" path="@filePath" delimiter="," textQualifier="&quot;" headerRowsToIgnore="0" encoding="UTF8" useHeaderRecord="true">
         <Schema>
             <Column name="Choice" dataType="Text" />
-            <Column name="Date" dataType="Date" />
             <Column name="Id" dataType="Number" />
-            <Column name="MSL" dataType="Text" />
             <Column name="Text" dataType="Text" />
-            <Column name="Text2" dataType="Text" />
+            <Column name="Text2 Updated" dataType="Text" />
         </Schema>
     </DelimitedDataSource>
     <CinchyTableTarget model="" domain="QA" table="Nested DX40 Link Target" suppressDuplicateErrors="false">
         <ColumnMappings>
             <ColumnMapping sourceColumn="Choice" targetColumn="Choice" />
-            <ColumnMapping sourceColumn="Date" targetColumn="Date" />
             <ColumnMapping sourceColumn="Id" targetColumn="Id" />
-            <ColumnMapping sourceColumn="MSL" targetColumn="MSL" />
             <ColumnMapping sourceColumn="Text" targetColumn="Text" />
-            <ColumnMapping sourceColumn="Text2" targetColumn="Text2" />
+            <ColumnMapping sourceColumn="Text2 Updated" targetColumn="Text2 Updated" />
         </ColumnMappings>
         <Filter>
         </Filter>
