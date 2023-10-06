@@ -2,7 +2,7 @@
 <Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DX40" version="1.0.0" xmlns="http://www.cinchy.co">
   <Schema>
     <Tables>
-      <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060" description="Description added by QA2Cinchy">
+      <Table name="Nested DX40 Link Target" domain="QA" guid="7f299bf4-9d4d-4121-a573-8400877355d6" icon="fa fa-table" iconColour="#002060">
         <Columns>
           <Text name="Text" guid="96d8c7db-ebb8-4410-8b24-0b9f725559c4" />
           <Text name="Text2" guid="9d8304d3-ce1e-4e55-bf30-5fdd08d31433" isMandatory="true" allowLinking="false" maxLength="2000" textFormat="Default" />
