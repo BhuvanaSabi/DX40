@@ -165,17 +165,12 @@
     "Entity": "Tables"
   },
   {
-    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
-    "Type": "metadata",
-    "Entity": "Table Access Control"
-  },
-  {
     "Path": "\\Domains\\QA\\Tables\\DX40 All Data Types Link Target\\Entitlements\\metadata.json",
     "Type": "metadata",
     "Entity": "Table Access Control"
   },
   {
-    "Path": "\\Domains\\QA\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
+    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
     "Type": "metadata",
     "Entity": "Table Access Control"
   },
@@ -210,19 +205,9 @@
     "Entity": "Table Access Control"
   },
   {
-    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv",
-    "Type": "refdata-csv"
-  },
-  {
-    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.xml",
-    "Type": "refdata-xml"
-  },
-  {
-    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
+    "Path": "\\Domains\\QA\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
     "Type": "metadata",
-    "Entity": "Data Experience Reference Data"
+    "Entity": "Table Access Control"
   },
   {
     "Path": "\\Domains\\QA\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\data.csv",
@@ -236,6 +221,21 @@
   },
   {
     "Path": "\\Domains\\QA\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\metadata.json",
+    "Type": "metadata",
+    "Entity": "Data Experience Reference Data"
+  },
+  {
+    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
+    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv",
+    "Type": "refdata-csv"
+  },
+  {
+    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\config.xml",
+    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.xml",
+    "Type": "refdata-xml"
+  },
+  {
+    "Path": "\\Domains\\QA\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
     "Type": "metadata",
     "Entity": "Data Experience Reference Data"
   },

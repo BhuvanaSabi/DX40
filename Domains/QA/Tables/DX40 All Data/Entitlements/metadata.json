@@ -7,7 +7,7 @@
     "Design Table": false,
     "Direct Query": true,
     "Edit All Columns": false,
-    "Editable Columns": "Bool,Choice,Choice Link,Date,Date Link,MSC,Multi Select Link,Nested Link Target,Nested Multi Link Target,Number,Number Link",
+    "Editable Columns": "Number,Date,Bool,Choice,MSC,Number Link,Date Link,Choice Link,Multi Select Link,Nested Link Target,Nested Multi Link Target",
     "Editable Row Filter": "[Text] IN ('test1')",
     "Export Data": true,
     "Groups": "DX40 Users",

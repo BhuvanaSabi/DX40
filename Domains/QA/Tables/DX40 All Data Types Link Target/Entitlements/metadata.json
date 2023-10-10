@@ -43,7 +43,7 @@
     "Install Table": true,
     "Manage Controls": true,
     "Table": "QA.DX40 All Data Types Link Target",
-    "Users": "Administrator (admin)",
+    "Users": null,
     "View All Columns": true,
     "Viewable Columns": null,
     "Viewable Row Filter": null,
@@ -53,7 +53,7 @@
       "Editable Columns": null,
       "Groups": "DX40 Admin",
       "Table": "fc6b69ba-97bf-47e0-8b1f-f1a60d2fd9e0",
-      "Users": "Administrator (admin)",
+      "Users": null,
       "Viewable Columns": null
     }
   }
