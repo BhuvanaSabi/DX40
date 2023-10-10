@@ -1,6 +1,6 @@
 {
   "Highlight Color": "#B3E5FC",
-  "Highlight Columns": "QA.Nested DX40 Link Target.Text2 Updated,QA.Nested DX40 Link Target.Text",
+  "Highlight Columns": "QA.Nested DX40 Link Target.Text,QA.Nested DX40 Link Target.Text2 Updated",
   "Ordinal": 1.0,
   "Row Condition": "[Text] IS NOT NULL",
   "Table": "QA.Nested DX40 Link Target",

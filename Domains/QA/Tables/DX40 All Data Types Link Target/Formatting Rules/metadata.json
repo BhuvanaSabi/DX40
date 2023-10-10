@@ -1,6 +1,6 @@
 {
   "Highlight Color": "#BBDEFB",
-  "Highlight Columns": "QA.DX40 All Data Types Link Target.Bool,QA.DX40 All Data Types Link Target.Choice,QA.DX40 All Data Types Link Target.Cinchy Id,QA.DX40 All Data Types Link Target.Date,QA.DX40 All Data Types Link Target.Link,QA.DX40 All Data Types Link Target.Multi Select Choice,QA.DX40 All Data Types Link Target.Number",
+  "Highlight Columns": "QA.DX40 All Data Types Link Target.Number,QA.DX40 All Data Types Link Target.Date,QA.DX40 All Data Types Link Target.Bool,QA.DX40 All Data Types Link Target.Choice,QA.DX40 All Data Types Link Target.Multi Select Choice,QA.DX40 All Data Types Link Target.Link,QA.DX40 All Data Types Link Target.Cinchy Id",
   "Ordinal": 2.0,
   "Row Condition": "[Text] IN ('a','b')",
   "Table": "QA.DX40 All Data Types Link Target",
