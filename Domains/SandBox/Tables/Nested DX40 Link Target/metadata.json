@@ -1,0 +1,24 @@
+{
+  "Cinchy Schema Version": 4.0,
+  "Description": null,
+  "Domain": "SandBox",
+  "Full Name": "SandBox.Nested DX40 Link Target",
+  "Guid": "7f299bf4-9d4d-4121-a573-8400877355d6",
+  "Has Erased Records": false,
+  "Icon": "fa fa-arrow-circle-o-down",
+  "Icon Colour": "Grey",
+  "Json": "\\Domains\\SandBox\\Tables\\Nested DX40 Link Target\\table.json",
+  "Min Recycle Bin Retention Days": null,
+  "Min Retention Versions": null,
+  "Min Version Retention Days": null,
+  "Name": "Nested DX40 Link Target",
+  "Publish Data Change Notifications": false,
+  "Type": "Standard",
+  "Sync GUID": null,
+  "FocusColumns": "Json",
+  "ResolveLinks": {
+    "Domain": "SandBox",
+    "Icon": "fa fa-arrow-circle-o-down",
+    "Icon Colour": "Grey"
+  }
+}

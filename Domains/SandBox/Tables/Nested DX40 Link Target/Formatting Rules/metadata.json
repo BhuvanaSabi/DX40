@@ -1,0 +1,13 @@
+{
+  "Highlight Color": "#B3E5FC",
+  "Highlight Columns": "SandBox.Nested DX40 Link Target.Text2 Updated,SandBox.Nested DX40 Link Target.Text",
+  "Ordinal": 1.0,
+  "Row Condition": "[Text] IS NOT NULL",
+  "Table": "SandBox.Nested DX40 Link Target",
+  "Sync GUID": "bd316ef1-8f50-4a7f-82d9-9ad55ee7f493_9ce036c8-655e-48fe-8da6-b3fc539b8730_5802c236-e913-40f3-8d65-c9047c046486",
+  "ResolveLinks": {
+    "Highlight Color": "#B3E5FC",
+    "Highlight Columns": "SandBox.Nested DX40 Link Target.Text,SandBox.Nested DX40 Link Target.Text2 Updated",
+    "Table": "7f299bf4-9d4d-4121-a573-8400877355d6"
+  }
+}
