@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BatchDataSyncConfig name="DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target" version="1.0.0" xmlns="http://www.cinchy.co">
+    <Parameters>
+        <Parameter name="filePath" />
+    </Parameters>
+    <DelimitedDataSource source="PATH" path="@filePath" delimiter="," textQualifier="&quot;" headerRowsToIgnore="0" encoding="UTF8" useHeaderRecord="true">
+        <Schema>
+            <Column name="Choice" dataType="Text" />
+            <Column name="Id" dataType="Number" />
+            <Column name="Text" dataType="Text" />
+            <Column name="Text2 Updated" dataType="Text" />
+        </Schema>
+    </DelimitedDataSource>
+    <CinchyTableTarget model="" domain="SandBox" table="Nested DX40 Link Target" suppressDuplicateErrors="false">
+        <ColumnMappings>
+            <ColumnMapping sourceColumn="Choice" targetColumn="Choice" />
+            <ColumnMapping sourceColumn="Id" targetColumn="Id" />
+            <ColumnMapping sourceColumn="Text" targetColumn="Text" />
+            <ColumnMapping sourceColumn="Text2 Updated" targetColumn="Text2 Updated" />
+        </ColumnMappings>
+        <Filter>
+        </Filter>
+        <SyncKey>
+            <SyncKeyColumnReference name="Text" />
+        </SyncKey>
+        <NewRecordBehaviour type="INSERT" />
+        <ChangedRecordBehaviour type="UPDATE" />
+        <DroppedRecordBehaviour type="DELETE" />
+    </CinchyTableTarget>
+</BatchDataSyncConfig>
