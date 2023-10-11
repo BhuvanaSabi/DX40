@@ -1,0 +1,24 @@
+{
+  "Cinchy Schema Version": 4.0,
+  "Description": null,
+  "Domain": "DXDGit",
+  "Full Name": "DXDGit.DX40 All Data",
+  "Guid": "6a6549d7-3c01-4e56-b4b9-6b024593d57e",
+  "Has Erased Records": false,
+  "Icon": "fa fa-table",
+  "Icon Colour": "Indigo",
+  "Json": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\table.json",
+  "Min Recycle Bin Retention Days": null,
+  "Min Retention Versions": null,
+  "Min Version Retention Days": null,
+  "Name": "DX40 All Data",
+  "Publish Data Change Notifications": true,
+  "Type": "Standard",
+  "Sync GUID": null,
+  "FocusColumns": "Json",
+  "ResolveLinks": {
+    "Domain": "DXDGit",
+    "Icon": "fa fa-table",
+    "Icon Colour": "Indigo"
+  }
+}
