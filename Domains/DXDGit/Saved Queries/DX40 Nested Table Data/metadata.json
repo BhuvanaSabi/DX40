@@ -1,0 +1,26 @@
+{
+  "API Result Format": "JSON",
+  "CQL": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\query.sql",
+  "Description": "DX40 Nested Table Data Query results",
+  "Domain": "DXDGit",
+  "Groups With Design Access": "DX40 Owners 99",
+  "Groups With Execute Access": "DX40 Users",
+  "Icon": "fa fa-arrow-circle-o-down",
+  "Icon Colour": "Grey",
+  "Name": "DX40 Nested Table Data",
+  "Timeout": 30.0,
+  "Type": "Query (Approved Data Only)",
+  "Users With Design Access": "Administrator (admin)",
+  "Users With Execute Access": null,
+  "Sync GUID": "bd316ef1-8f50-4a7f-82d9-9ad55ee7f493_9ce036c8-655e-48fe-8da6-b3fc539b8730_b6d40ddd-83df-474b-9aa2-81e147c42083",
+  "FocusColumns": "CQL",
+  "ResolveLinks": {
+    "Domain": "DXDGit",
+    "Groups With Design Access": "DX40 Owners 99",
+    "Groups With Execute Access": "DX40 Users",
+    "Icon Colour": "Grey",
+    "Icon": "fa fa-arrow-circle-o-down",
+    "Users With Design Access": "Administrator (admin)",
+    "Users With Execute Access": null
+  }
+}

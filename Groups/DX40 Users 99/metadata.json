@@ -1,0 +1,15 @@
+{
+  "Group Type": "Cinchy Group",
+  "Name": "DX40 Users 99",
+  "Owner Groups": "DX40 Admin 99",
+  "Owners": null,
+  "User Groups": "DX40 Owners 99",
+  "Users": null,
+  "Sync GUID": "64be67ca-d82d-43d3-a4f9-c1c021a6986f",
+  "ResolveLinks": {
+    "Owner Groups": "DX40 Admin 99",
+    "Owners": null,
+    "User Groups": "DX40 Owners 99",
+    "Users": null
+  }
+}

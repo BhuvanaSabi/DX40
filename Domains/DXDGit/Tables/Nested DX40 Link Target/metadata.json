@@ -1,0 +1,24 @@
+{
+  "Cinchy Schema Version": 4.0,
+  "Description": "NestedDX40LinkTargetT",
+  "Domain": "DXDGit",
+  "Full Name": "DXDGit.Nested DX40 Link Target",
+  "Guid": "7f299bf4-9d4d-4121-a573-8400877355d6",
+  "Has Erased Records": false,
+  "Icon": "fa fa-arrow-circle-o-down",
+  "Icon Colour": "Grey",
+  "Json": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\table.json",
+  "Min Recycle Bin Retention Days": 100.0,
+  "Min Retention Versions": 25.0,
+  "Min Version Retention Days": 100.0,
+  "Name": "Nested DX40 Link Target",
+  "Publish Data Change Notifications": false,
+  "Type": "Standard",
+  "Sync GUID": null,
+  "FocusColumns": "Json",
+  "ResolveLinks": {
+    "Domain": "DXDGit",
+    "Icon": "fa fa-arrow-circle-o-down",
+    "Icon Colour": "Grey"
+  }
+}
