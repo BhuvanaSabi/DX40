@@ -110,27 +110,27 @@
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
+    "Entity": "Saved Queries",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
-    "Entity": "Saved Queries",
-    "Type": "metadata"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
@@ -170,12 +170,12 @@
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Entitlements\\metadata.json",
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
     "Type": "metadata"
   },
@@ -235,21 +235,6 @@
     "Type": "metadata"
   },
   {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.csv",
-    "Type": "refdata-csv"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.xml",
-    "Type": "refdata-xml"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\metadata.json",
-    "Entity": "Data Experience Reference Data",
-    "Type": "metadata"
-  },
-  {
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
     "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv",
     "Type": "refdata-csv"
@@ -261,6 +246,21 @@
   },
   {
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
+    "Entity": "Data Experience Reference Data",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\data.csv",
+    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.csv",
+    "Type": "refdata-csv"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\config.xml",
+    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.xml",
+    "Type": "refdata-xml"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\metadata.json",
     "Entity": "Data Experience Reference Data",
     "Type": "metadata"
   },
