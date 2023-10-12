@@ -1,282 +1,282 @@
 [
   {
-    "Entity": "Data Experience Definitions",
     "Path": "\\Data Experience Definitions\\DX40\\metadata.json",
+    "Entity": "Data Experience Definitions",
     "Type": "metadata"
   },
   {
-    "Entity": "Data Experience Definitions",
     "Path": "\\Data Experience Definitions\\DX40\\metadata.json",
+    "Entity": "Data Experience Definitions",
     "Type": "metadata"
   },
   {
-    "Entity": "Data Experience Definitions",
     "Path": "\\Data Experience Definitions\\DX40\\metadata.json",
+    "Entity": "Data Experience Definitions",
     "Type": "metadata"
   },
   {
-    "Entity": "Data Experience Definitions",
     "Path": "\\Data Experience Definitions\\DX40\\metadata.json",
+    "Entity": "Data Experience Definitions",
     "Type": "metadata"
   },
   {
-    "Entity": "Domains",
     "Path": "\\Domains\\DXDGit\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Domains",
-    "Path": "\\Domains\\DXDGit\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\metadata.json",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXDGit\\metadata.json",
     "Type": "metadata"
   },
   {
-    "Entity": "Formatting Rules",
+    "Path": "\\Domains\\DXDGit\\metadata.json",
+    "Entity": "Domains",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Formatting Rules\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Formatting Rules",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Formatting Rules\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Formatting Rules\\metadata.json",
     "Entity": "Formatting Rules",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Formatting Rules\\metadata.json",
     "Type": "metadata"
   },
   {
-    "Entity": "Groups",
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Formatting Rules\\metadata.json",
+    "Entity": "Formatting Rules",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Groups\\DX40 Admin 99\\metadata.json",
+    "Entity": "Groups",
     "Type": "metadata"
   },
   {
-    "Entity": "Groups",
     "Path": "\\Groups\\DX40 Owners 99\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Entity": "Groups",
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
+    "Entity": "Groups",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Saved Queries",
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
     "Entity": "Saved Queries",
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
     "Entity": "Saved Queries",
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
     "Entity": "Saved Queries",
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Type": "metadata"
   },
   {
-    "Type": "model",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\model.xml",
-    "Name": "DXDF - DX40 - MODEL - DXDGit.DX40 All Data.xml"
+    "Name": "DXDF - DX40 - MODEL - DXDGit.DX40 All Data.xml",
+    "Type": "model"
   },
   {
-    "Entity": "Tables",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\metadata.json",
+    "Entity": "Tables",
     "Type": "metadata"
   },
   {
-    "Type": "model",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\model.xml",
-    "Name": "DXDF - DX40 - MODEL - DXDGit.DX40 All Data Types Link Target.xml"
+    "Name": "DXDF - DX40 - MODEL - DXDGit.DX40 All Data Types Link Target.xml",
+    "Type": "model"
   },
   {
-    "Entity": "Tables",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\metadata.json",
+    "Entity": "Tables",
     "Type": "metadata"
   },
   {
-    "Type": "model",
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\model.xml",
-    "Name": "DXDF - DX40 - MODEL - DXDGit.Nested DX40 Link Target.xml"
+    "Name": "DXDF - DX40 - MODEL - DXDGit.Nested DX40 Link Target.xml",
+    "Type": "model"
   },
   {
-    "Entity": "Tables",
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Tables",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\metadata.json",
+    "Entity": "Tables",
     "Type": "metadata"
   },
   {
-    "Entity": "Table Access Control",
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
-    "Type": "metadata"
-  },
-  {
-    "Entity": "Table Access Control",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Entitlements\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Table Access Control",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
     "Type": "metadata"
   },
   {
-    "Entity": "Views",
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
+    "Entity": "Table Access Control",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
+    "Entity": "Table Access Control",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\Creator\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "Views",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\metadata.json",
     "Entity": "Views",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\metadata.json",
     "Type": "metadata"
   },
   {
-    "Entity": "View Columns",
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\metadata.json",
+    "Entity": "Views",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\Creator\\Columns\\metadata.json",
-    "Type": "metadata"
-  },
-  {
     "Entity": "View Columns",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Entity": "View Columns",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Entity": "View Columns",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Entity": "View Columns",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Type": "metadata"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
     "Entity": "View Columns",
+    "Type": "metadata"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
+    "Entity": "View Columns",
     "Type": "metadata"
   },
   {
-    "Type": "refdata-csv",
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv"
-  },
-  {
-    "Type": "refdata-xml",
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.xml"
-  },
-  {
-    "Entity": "Data Experience Reference Data",
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
-    "Type": "metadata"
-  },
-  {
-    "Type": "refdata-csv",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.csv"
+    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.csv",
+    "Type": "refdata-csv"
   },
   {
-    "Type": "refdata-xml",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.xml"
+    "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.xml",
+    "Type": "refdata-xml"
   },
   {
-    "Entity": "Data Experience Reference Data",
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\metadata.json",
+    "Entity": "Data Experience Reference Data",
     "Type": "metadata"
   },
   {
-    "Type": "refdata-csv",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.csv"
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
+    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv",
+    "Type": "refdata-csv"
   },
   {
-    "Type": "refdata-xml",
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.xml"
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\config.xml",
+    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.xml",
+    "Type": "refdata-xml"
   },
   {
+    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
     "Entity": "Data Experience Reference Data",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\data.csv",
+    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.csv",
+    "Type": "refdata-csv"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\config.xml",
+    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.xml",
+    "Type": "refdata-xml"
+  },
+  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\metadata.json",
+    "Entity": "Data Experience Reference Data",
     "Type": "metadata"
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "Highlight Color": "#B3E5FC",
-    "Highlight Columns": "DXDGit.Nested DX40 Link Target.Text2,DXDGit.Nested DX40 Link Target.Text",
+    "Highlight Columns": "DXDGit.Nested DX40 Link Target.Text,DXDGit.Nested DX40 Link Target.Text2",
     "Ordinal": 1.0,
     "Row Condition": "[Text] IS NOT NULL",
     "Table": "DXDGit.Nested DX40 Link Target",
