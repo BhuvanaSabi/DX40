@@ -1,6 +1,6 @@
 {
   "Highlight Color": "#BBDEFB",
-  "Highlight Columns": "DXDGit.DX40 All Data Types Link Target.Bool,DXDGit.DX40 All Data Types Link Target.Choice,DXDGit.DX40 All Data Types Link Target.Cinchy Id,DXDGit.DX40 All Data Types Link Target.Date,DXDGit.DX40 All Data Types Link Target.Link,DXDGit.DX40 All Data Types Link Target.Multi Select Choice,DXDGit.DX40 All Data Types Link Target.Number",
+  "Highlight Columns": "DXDGit.DX40 All Data Types Link Target.Number,DXDGit.DX40 All Data Types Link Target.Date,DXDGit.DX40 All Data Types Link Target.Bool,DXDGit.DX40 All Data Types Link Target.Choice,DXDGit.DX40 All Data Types Link Target.Multi Select Choice,DXDGit.DX40 All Data Types Link Target.Link,DXDGit.DX40 All Data Types Link Target.Cinchy Id",
   "Ordinal": 2.0,
   "Row Condition": "[Text] IN ('a','b')",
   "Table": "DXDGit.DX40 All Data Types Link Target",

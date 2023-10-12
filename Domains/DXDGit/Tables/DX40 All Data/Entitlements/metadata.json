@@ -7,7 +7,7 @@
     "Design Table": false,
     "Direct Query": true,
     "Edit All Columns": false,
-    "Editable Columns": "Bool,Choice,Choice Link,Date,Date Link,MSC,Multi Select Link,Nested Link Target,Nested Multi Link Target,Number,Number Link",
+    "Editable Columns": "Number,Date,Bool,Choice,MSC,Number Link,Date Link,Choice Link,Multi Select Link,Nested Link Target,Nested Multi Link Target",
     "Editable Row Filter": "[Text] IN ('test1')",
     "Export Data": true,
     "Groups": "DX40 Users 99",
@@ -72,7 +72,7 @@
     "Install Table": true,
     "Manage Controls": true,
     "Table": "DXDGit.DX40 All Data",
-    "Users": "Administrator (admin)",
+    "Users": null,
     "View All Columns": true,
     "Viewable Columns": null,
     "Viewable Row Filter": null,
@@ -82,7 +82,7 @@
       "Editable Columns": null,
       "Groups": "DX40 Admin 99",
       "Table": "6a6549d7-3c01-4e56-b4b9-6b024593d57e",
-      "Users": "Administrator (admin)",
+      "Users": null,
       "Viewable Columns": null
     }
   }
