@@ -101,64 +101,36 @@
   },
   {
     "Path": "\\Groups\\DX40 Users 99\\metadata.json",
-<<<<<<< HEAD
-=======
     "Entity": "Groups",
     "Type": "metadata"
   },
   {
     "Path": "\\Groups\\DX40 Users 99\\metadata.json",
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Entity": "Groups",
     "Type": "metadata"
   },
   {
-<<<<<<< HEAD
-    "Path": "\\Groups\\DX40 Users 99\\metadata.json",
-    "Entity": "Groups",
-    "Type": "metadata"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
-    "Entity": "Saved Queries",
-    "Type": "metadata"
-  },
-  {
-=======
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
   {
-<<<<<<< HEAD
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
-=======
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
-    "Entity": "Saved Queries",
-    "Type": "metadata"
-  },
-  {
-<<<<<<< HEAD
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
-=======
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
-    "Entity": "Saved Queries",
-    "Type": "metadata"
-  },
-  {
-<<<<<<< HEAD
-    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 NestedQueryResults\\metadata.json",
-=======
     "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
   {
     "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
+    "Entity": "Saved Queries",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
+    "Entity": "Saved Queries",
+    "Type": "metadata"
+  },
+  {
+    "Path": "\\Domains\\DXDGit\\Saved Queries\\DX40 Nested Table Data\\metadata.json",
     "Entity": "Saved Queries",
     "Type": "metadata"
   },
@@ -198,27 +170,16 @@
     "Type": "metadata"
   },
   {
-<<<<<<< HEAD
-=======
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
     "Type": "metadata"
   },
   {
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
     "Type": "metadata"
   },
   {
-<<<<<<< HEAD
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Entitlements\\metadata.json",
-    "Entity": "Table Access Control",
-    "Type": "metadata"
-  },
-  {
-=======
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Entitlements\\metadata.json",
     "Entity": "Table Access Control",
     "Type": "metadata"
@@ -265,17 +226,6 @@
   },
   {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
-<<<<<<< HEAD
-    "Entity": "View Columns",
-    "Type": "metadata"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Views\\View 1\\Columns\\metadata.json",
-    "Entity": "View Columns",
-    "Type": "metadata"
-  },
-  {
-=======
     "Entity": "View Columns",
     "Type": "metadata"
   },
@@ -300,7 +250,6 @@
     "Type": "metadata"
   },
   {
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data Types Link Target\\Reference Data\\DX40 All Data Types Link Target\\data.csv",
     "Name": "DXDF - DX40 - REFDATA - 00000002 - DX40 All Data Types Link Target.csv",
     "Type": "refdata-csv"
@@ -316,22 +265,6 @@
     "Type": "metadata"
   },
   {
-<<<<<<< HEAD
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.csv",
-    "Type": "refdata-csv"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000003 - DX40 All Data without HLink.xml",
-    "Type": "refdata-xml"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\DX40 All Data\\Reference Data\\DX40 All Data without HLink\\metadata.json",
-    "Entity": "Data Experience Reference Data",
-    "Type": "metadata"
-  },
-  {
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\data.csv",
     "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.csv",
     "Type": "refdata-csv"
@@ -342,18 +275,6 @@
     "Type": "refdata-xml"
   },
   {
-=======
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\data.csv",
-    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.csv",
-    "Type": "refdata-csv"
-  },
-  {
-    "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\config.xml",
-    "Name": "DXDF - DX40 - REFDATA - 00000001 - DX40 Nested DXD Link Target.xml",
-    "Type": "refdata-xml"
-  },
-  {
->>>>>>> 01d97f6 (qa1 update group entitlements DX40 NestedQueryResults query)
     "Path": "\\Domains\\DXDGit\\Tables\\Nested DX40 Link Target\\Reference Data\\DX40 Nested DXD Link Target\\metadata.json",
     "Entity": "Data Experience Reference Data",
     "Type": "metadata"
